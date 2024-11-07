@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Salmon Sushi",
+        "description": "Fresh salmon with rice and seaweed.",
+        "imageUrl": "https://thebigmansworld.com/wp-content/uploads/2023/04/pan-seared-salmon-recipe.jpg",
+        "price": "$12.00"
+    },
+    {
+        "id": 2,
+        "name": "Pasta Carbonara",
+        "description": "Creamy pasta with bacon and cheese.",
+        "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg",
+        "price": "$15.00"
+    },
+    {
+        "id": 3,
+        "name": "New York Cheesecake",
+        "description": "Rich and creamy cheesecake with a graham cracker crust.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsjsHvo1J7BnW5OzeeXE9R7hIXHpW90cVsQ&s",
+        "price": "$8.00"
+    },
+    {
+        "id": 4,
+        "name": "Chicken Tikka Masala",
+        "description": "Spicy grilled chicken in a creamy tomato sauce.",
+        "imageUrl": "https://www.recipetineats.com/tachyon/2018/04/Chicken-Tikka-Masala_0-SQ.jpg",
+        "price": "$14.00"
+    },
+    {
+        "id": 5,
+        "name": "Caprese Salad",
+        "description": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
+        "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Caprese-salad-8f218a3.png",
+        "price": "$10.00"
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Chip Cookies",
+        "description": "Classic cookies filled with chocolate chips.",
+        "imageUrl": "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies.jpg",
+        "price": "$6.00"
+    }
+]
