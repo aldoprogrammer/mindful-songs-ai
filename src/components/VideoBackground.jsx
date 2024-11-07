@@ -8,7 +8,7 @@ export default function VideoBackground() {
       muted
       className="absolute inset-0 w-full h-full object-cover z-0"
     >
-      <source src="https://cdn.pixabay.com/video/2024/10/12/236005_tiny.mp4" type="video/mp4" />
+      <source src="https://cdn.pixabay.com/video/2019/06/12/24370-342401472_large.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
   );
