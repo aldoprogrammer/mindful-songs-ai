@@ -9,18 +9,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md): Uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc): Uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Repository
-
-You can find the repository for this setup [here](https://github.com/aldoprogrammer/healthy-eats).
-
 ## Running the Project
 
 To run this project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/aldoprogrammer/bloom-in-you.git
-    cd bloom-in-you
+    git clone https://github.com/aldoprogrammer/mindful-songs-ai.git
+    cd mindful-songs-ai
     ```
 
 2. **Install dependencies:**
